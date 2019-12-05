@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tema_4-React/static/css/main.91bf968d.chunk.css",
+    "main.js": "/Tema_4-React/static/js/main.caa449d5.chunk.js",
+    "main.js.map": "/Tema_4-React/static/js/main.caa449d5.chunk.js.map",
+    "runtime-main.js": "/Tema_4-React/static/js/runtime-main.f5d7c12f.js",
+    "runtime-main.js.map": "/Tema_4-React/static/js/runtime-main.f5d7c12f.js.map",
+    "static/js/2.2db8ca07.chunk.js": "/Tema_4-React/static/js/2.2db8ca07.chunk.js",
+    "static/js/2.2db8ca07.chunk.js.map": "/Tema_4-React/static/js/2.2db8ca07.chunk.js.map",
+    "index.html": "/Tema_4-React/index.html",
+    "precache-manifest.8a89031e74a2355452c5202eeee570cd.js": "/Tema_4-React/precache-manifest.8a89031e74a2355452c5202eeee570cd.js",
+    "service-worker.js": "/Tema_4-React/service-worker.js",
+    "static/css/main.91bf968d.chunk.css.map": "/Tema_4-React/static/css/main.91bf968d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5d7c12f.js",
+    "static/js/2.2db8ca07.chunk.js",
+    "static/css/main.91bf968d.chunk.css",
+    "static/js/main.caa449d5.chunk.js"
+  ]
+}
