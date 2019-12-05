@@ -1,10 +1,8 @@
 {
-  "name": "oppgavesett_3",
-
-"name": "oppgave3",
-"homepage":"https://jonmagneaaj.github.io/Tema_4-React",
+  "name": "Oppgavesett_3",
+  "homepage": "https://jonmagneaaj.github.io/Oppgavesett_3",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
