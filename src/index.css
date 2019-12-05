@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+h3{
+  color: red;
+}
+
+#oppgave5{
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+  align-items: center;
+  gap:10px;
+}
+.snurr-1{
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  animation: rotate1 3s linear forwards ;
+}
+.snurr-5{
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  animation: rotate5 3s linear forwards;
+}
+.snurr-3{
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  animation: rotate3 3s linear forwards;
+}
+
+@keyframes rotate1{
+  to{
+    rotate: 360deg;
+  }
+}
+
+@keyframes rotate5{
+  to{
+    rotate: 1800deg;
+  }
+}
+
+@keyframes rotate3{
+  to{
+    rotate: 1080deg;
+  }
+}
+
